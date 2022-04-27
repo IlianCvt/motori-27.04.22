@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+}
+body
+{
+    background-image: url(bg1.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+img
+    {
+        margin-left:80%;
+    }
